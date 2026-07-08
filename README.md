@@ -16,7 +16,7 @@ i enjoy building practical cybersecurity projects that demonstrates real world s
   | Project | Description | Repository |
   |---------|-------------|------------|
   | OSINT Investigation | Conducted an OSINT investigation on a target organization | https://github.com/pjekwu/osint-project |
-  | Log Analysis | Analysed IIS and Windows Events Log to identify attacks | Coming soon |
+  | Log Analysis | Analysed IIS and Windows Events Log to identify attacks | https://github.com/pjekwu/log-analysis |
   | Malware Analsysis | Analysis of Malwares from different Operating sytems | https://github.com/pjekwu/malware-analysis |
 
   ## SKills
